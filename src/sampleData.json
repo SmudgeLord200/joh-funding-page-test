@@ -1,0 +1,182 @@
+[
+  {
+    "Fund Name/Benchmark": "Global Growth Fund",
+    "Domicile": "London",
+    "Region": "Global",
+    "Holdings": 120,
+    "Fund Size": "2.5B USD",
+    "Launch Date": "2015-03-15",
+    "Manager": "Manager A"
+  },
+  {
+    "Fund Name/Benchmark": "European Equity Fund",
+    "Domicile": "London",
+    "Region": "Europe",
+    "Holdings": 80,
+    "Fund Size": "1.8B USD",
+    "Launch Date": "2010-07-01",
+    "Manager": "Manager B"
+  },
+  {
+    "Fund Name/Benchmark": "Emerging Markets Fund",
+    "Domicile": "Dublin",
+    "Region": "Emerging Markets",
+    "Holdings": 150,
+    "Fund Size": "3.2B USD",
+    "Launch Date": "2018-11-20",
+    "Manager": "Manager C"
+  },
+  {
+    "Fund Name/Benchmark": "Asian Growth Fund",
+    "Domicile": "London",
+    "Region": "Asia",
+    "Holdings": 95,
+    "Fund Size": "1.2B USD",
+    "Launch Date": "2013-06-10",
+    "Manager": "Manager A"
+  },
+  {
+    "Fund Name/Benchmark": "UK Balanced Fund",
+    "Domicile": "London",
+    "Region": "UK",
+    "Holdings": 60,
+    "Fund Size": "750M GBP",
+    "Launch Date": "2005-09-05",
+    "Manager": "Manager B"
+  },
+  {
+    "Fund Name/Benchmark": "North America Fund",
+    "Domicile": "London",
+    "Region": "North America",
+    "Holdings": 110,
+    "Fund Size": "1.7B USD",
+    "Launch Date": "2012-01-25",
+    "Manager": "Manager C"
+  },
+  {
+    "Fund Name/Benchmark": "Small Cap Equity Fund",
+    "Domicile": "London",
+    "Region": "UK",
+    "Holdings": 50,
+    "Fund Size": "1.0B GBP",
+    "Launch Date": "2016-09-15",
+    "Manager": "Manager A"
+  },
+  {
+    "Fund Name/Benchmark": "Global Balanced Fund",
+    "Domicile": "Dublin",
+    "Region": "Global",
+    "Holdings": 100,
+    "Fund Size": "3.5B USD",
+    "Launch Date": "2014-11-25",
+    "Manager": "Manager B"
+  },
+  {
+    "Fund Name/Benchmark": "European Growth Fund",
+    "Domicile": "London",
+    "Region": "Europe",
+    "Holdings": 130,
+    "Fund Size": "2.8B EUR",
+    "Launch Date": "2009-03-10",
+    "Manager": "Manager A"
+  },
+  {
+    "Fund Name/Benchmark": "Asia Pacific Fund",
+    "Domicile": "London",
+    "Region": "Asia",
+    "Holdings": 140,
+    "Fund Size": "2.0B USD",
+    "Launch Date": "2017-07-18",
+    "Manager": "Manager C"
+  },
+  {
+    "Fund Name/Benchmark": "Global High Yield Fund",
+    "Domicile": "London",
+    "Region": "Global",
+    "Holdings": 150,
+    "Fund Size": "4.0B USD",
+    "Launch Date": "2021-06-14",
+    "Manager": "Manager B"
+  },
+  {
+    "Fund Name/Benchmark": "Emerging Opportunities Fund",
+    "Domicile": "Dublin",
+    "Region": "Emerging Markets",
+    "Holdings": 160,
+    "Fund Size": "4.1B USD",
+    "Launch Date": "2019-04-15",
+    "Manager": "Manager A"
+  },
+  {
+    "Fund Name/Benchmark": "Japan Equity Fund",
+    "Domicile": "London",
+    "Region": "Asia",
+    "Holdings": 90,
+    "Fund Size": "1.8B JPY",
+    "Launch Date": "2011-05-30",
+    "Manager": "Manager C"
+  },
+  {
+    "Fund Name/Benchmark": "Technology Innovation Fund",
+    "Domicile": "London",
+    "Region": "Global",
+    "Holdings": 115,
+    "Fund Size": "5.0B USD",
+    "Launch Date": "2020-01-01",
+    "Manager": "Manager B"
+  },
+  {
+    "Fund Name/Benchmark": "Infrastructure Fund",
+    "Domicile": "London",
+    "Region": "Europe",
+    "Holdings": 75,
+    "Fund Size": "900M GBP",
+    "Launch Date": "2008-12-12",
+    "Manager": "Manager A"
+  },
+  {
+    "Fund Name/Benchmark": "Latin America Fund",
+    "Domicile": "London",
+    "Region": "Emerging Markets",
+    "Holdings": 85,
+    "Fund Size": "700M USD",
+    "Launch Date": "2015-08-09",
+    "Manager": "Manager C"
+  },
+  {
+    "Fund Name/Benchmark": "Healthcare Fund",
+    "Domicile": "London",
+    "Region": "North America",
+    "Holdings": 120,
+    "Fund Size": "2.2B USD",
+    "Launch Date": "2018-10-20",
+    "Manager": "Manager B"
+  },
+  {
+    "Fund Name/Benchmark": "UK Income Fund",
+    "Domicile": "London",
+    "Region": "UK",
+    "Holdings": 65,
+    "Fund Size": "850M GBP",
+    "Launch Date": "2012-04-12",
+    "Manager": "Manager A"
+  },
+  {
+    "Fund Name/Benchmark": "European Small Cap Fund",
+    "Domicile": "London",
+    "Region": "Europe",
+    "Holdings": 70,
+    "Fund Size": "1.1B EUR",
+    "Launch Date": "2007-03-25",
+    "Manager": "Manager C"
+  },
+  {
+    "Fund Name/Benchmark": "Global Income Fund",
+    "Domicile": "London",
+    "Region": "Global",
+    "Holdings": 110,
+    "Fund Size": "2.7B USD",
+    "Launch Date": "2015-09-18",
+    "Manager": "Manager B"
+  }
+]
