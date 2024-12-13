@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/joh-funding-page-test/static/css/main.692aa545.css",
+    "main.js": "/joh-funding-page-test/static/js/main.eb8dd12b.js",
+    "static/js/453.e109c486.chunk.js": "/joh-funding-page-test/static/js/453.e109c486.chunk.js",
+    "index.html": "/joh-funding-page-test/index.html",
+    "static/media/list.svg": "/joh-funding-page-test/static/media/list.8486a1e6df1d1bbfdaae8ad928179eb6.svg",
+    "static/media/calendar.svg": "/joh-funding-page-test/static/media/calendar.0aa970cf2052f800fc7aecd31246f748.svg",
+    "static/media/globe.svg": "/joh-funding-page-test/static/media/globe.ad61f877bb84ebf2538cd388818a365c.svg",
+    "static/media/grid.svg": "/joh-funding-page-test/static/media/grid.8a18c96e230091fc1a0954064843d30f.svg",
+    "static/media/bar-chart-2.svg": "/joh-funding-page-test/static/media/bar-chart-2.482eeef7b65a401467bbd78bcb9c82da.svg",
+    "static/media/dollar-sign.svg": "/joh-funding-page-test/static/media/dollar-sign.8d9a6f938731fde21207ac6851ae5fcb.svg",
+    "static/media/arrow-down.svg": "/joh-funding-page-test/static/media/arrow-down.1eca03ef4a23db15831de9ee21016747.svg",
+    "static/media/arrow-up.svg": "/joh-funding-page-test/static/media/arrow-up.70d8ca827d1640720ed80c86fd48dcfa.svg",
+    "static/media/search.svg": "/joh-funding-page-test/static/media/search.f9705ffe407455bd10ed6827af98d123.svg",
+    "static/media/filter.svg": "/joh-funding-page-test/static/media/filter.f342dd7b00319746f418bb18b1da51c3.svg",
+    "main.692aa545.css.map": "/joh-funding-page-test/static/css/main.692aa545.css.map",
+    "main.eb8dd12b.js.map": "/joh-funding-page-test/static/js/main.eb8dd12b.js.map",
+    "453.e109c486.chunk.js.map": "/joh-funding-page-test/static/js/453.e109c486.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.692aa545.css",
+    "static/js/main.eb8dd12b.js"
+  ]
+}
